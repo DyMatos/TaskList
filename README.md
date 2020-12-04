@@ -21,7 +21,7 @@ O programa é executado com:
         python program.py
 
 ## Licensa
-Copyright 2020 UAL
+Copyright 2020 André Sabino
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
